@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**santiagoCastellanostrr/santiagoCastellanostrr** is a special/spacial🐱‍🚀 repository because its my first time try it.
+**santiagoCastellanostrr** is a special/spacial🐱‍🚀 repository because its my first time try it.
 
 About me:
 
