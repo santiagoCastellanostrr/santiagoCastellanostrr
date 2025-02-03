@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-**santiagoCastellanostrr/santiagoCastellanostrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**santiagoCastellanostrr/santiagoCastellanostrr** is a special/spacial🐱‍🚀 repository because its my first time try it.
 
-Here are some ideas to get you started:
+About me:
 
 - 🔭 Esta es mi primera linea de codigo 
 - 🌱 Estoy cursando Bioingenieria en la USTA Tunja.
